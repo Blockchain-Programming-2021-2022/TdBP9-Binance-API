@@ -2,8 +2,6 @@ import sqlite3
 import requests
 import json
 from enum import Enum
-import time
-import calendar
 import hmac
 from typing import Dict
 import hashlib
