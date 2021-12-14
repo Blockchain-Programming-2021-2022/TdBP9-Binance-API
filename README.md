@@ -1,6 +1,7 @@
 # TdBP9
 
 API Binance from python using sqlite.
+
 I used the following libraries : sqlite3,requests,json,Enum,hmac,hlib.
 
 -Market : In this part we use Binance api to extract market's data to our sqlite database.             
