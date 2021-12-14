@@ -8,8 +8,7 @@ import hmac
 from typing import Dict
 import hashlib
 import time
-import requests
-import json
+
 
 
 base_url ="https://api2.binance.com"
